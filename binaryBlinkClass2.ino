@@ -16,7 +16,6 @@ void setup() {
         myPins.blinkLeds(ledStates[i], 500);  // Blink LEDs with a 500ms delay
     }
     }
-}
 
 void loop() {
     // Your loop code here
